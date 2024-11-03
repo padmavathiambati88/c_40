@@ -26,5 +26,3 @@ int main()
 }
 output:243623
 6 4 
-output:6374235322
-8 9 7 
